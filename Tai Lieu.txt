@@ -1,3 +1,4 @@
 References:
-           Video   :https://www.youtube.com/playlist?list=PLRhlTlpDUWswrSLW_wYQCotCI3vGa8Ljz
-           Website :https://vi.reactjs.org/docs/getting-started.html?fbclid=IwAR32eSEEttmgj21rifZMggpmWycCZ44Ok-DJgiYeILkEnRgbKsI7Qclukgk
+           Video List JavaScript: https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5
+           Video List ReactJs   : https://www.youtube.com/playlist?list=PLRhlTlpDUWswrSLW_wYQCotCI3vGa8Ljz
+           Document: https://vi.reactjs.org/docs/getting-started.html
