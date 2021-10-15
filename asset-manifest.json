@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/1vinhpx2001.io/Project-CNTT/static/css/main.36e0f1b9.chunk.css",
+    "main.js": "/1vinhpx2001.io/Project-CNTT/static/js/main.4e53bbd8.chunk.js",
+    "main.js.map": "/1vinhpx2001.io/Project-CNTT/static/js/main.4e53bbd8.chunk.js.map",
+    "runtime-main.js": "/1vinhpx2001.io/Project-CNTT/static/js/runtime-main.be8afa7a.js",
+    "runtime-main.js.map": "/1vinhpx2001.io/Project-CNTT/static/js/runtime-main.be8afa7a.js.map",
+    "static/js/2.32ea4c1c.chunk.js": "/1vinhpx2001.io/Project-CNTT/static/js/2.32ea4c1c.chunk.js",
+    "static/js/2.32ea4c1c.chunk.js.map": "/1vinhpx2001.io/Project-CNTT/static/js/2.32ea4c1c.chunk.js.map",
+    "index.html": "/1vinhpx2001.io/Project-CNTT/index.html",
+    "static/css/main.36e0f1b9.chunk.css.map": "/1vinhpx2001.io/Project-CNTT/static/css/main.36e0f1b9.chunk.css.map",
+    "static/js/2.32ea4c1c.chunk.js.LICENSE.txt": "/1vinhpx2001.io/Project-CNTT/static/js/2.32ea4c1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be8afa7a.js",
+    "static/js/2.32ea4c1c.chunk.js",
+    "static/css/main.36e0f1b9.chunk.css",
+    "static/js/main.4e53bbd8.chunk.js"
+  ]
+}
