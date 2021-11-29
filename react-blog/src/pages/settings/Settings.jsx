@@ -1,10 +1,9 @@
-import Sidebar from "../../components/sidebar/Sidebar"
+import "./settings.css";
+import Sidebar from "../../components/sidebar/Sidebar";
 
-import "./settings.css"
-
-export default function Setting() {
-    return (
-        <div className="settings">
+export default function Settings() {
+  return (
+    <div className="settings">
       <div className="settingsWrapper">
         <div className="settingsTitle">
           <span className="settingsTitleUpdate">Update Your Account</span>
@@ -40,5 +39,5 @@ export default function Setting() {
       </div>
       <Sidebar />
     </div>
-    )
+  );
 }

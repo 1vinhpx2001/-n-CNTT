@@ -1,8 +1,9 @@
-import "./singlePost.css"
+import { Link } from "react-router-dom";
+import "./singlePost.css";
 
 export default function SinglePost() {
-    return (
-        <div className="singlePost">
+  return (
+    <div className="singlePost">
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
@@ -20,9 +21,9 @@ export default function SinglePost() {
           <span>
             Author:
             <b className="singlePostAuthor">
-              {/* <Link className="link" to="/posts?username=Safak">
+              <Link className="link" to="/posts?username=Safak">
                 Safak
-              </Link> */}
+              </Link>
             </b>
           </span>
           <span>1 day ago</span>
@@ -59,5 +60,5 @@ export default function SinglePost() {
         </p>
       </div>
     </div>
-    )
+  );
 }

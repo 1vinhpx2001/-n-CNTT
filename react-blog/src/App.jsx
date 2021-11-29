@@ -1,18 +1,18 @@
-import TopBar from "./components/topbar/TopBar";
-import Single from "./pages/single/Single";
-import Write from "./pages/write/Write";
-import Settings from "./pages/settings/Settings";
+import Topbar from "./components/topbar/Topbar";
+import Homepage from "./pages/homepage/Homepage";
 import Login from "./pages/login/Login";
 import Register from "./pages/register/Register";
-import Homepage from "./pages/homepage/Homepage";
-
-import user from "./components/topbar/TopBar";
+import Settings from "./pages/settings/Settings";
+import Single from "./pages/single/Single";
+import Write from "./pages/write/Write";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import user from "./components/topbar/Topbar";
 
 function App() {
+  //const currentUser = true;
   return (
     <Router>
-      <TopBar />
+      <Topbar />
       <Routes>
         <Route exact path="/" element = {<Homepage/>}/>
         <Route path="/posts" element = {<Homepage/>}/>
